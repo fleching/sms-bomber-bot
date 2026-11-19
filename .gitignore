@@ -1,0 +1,20 @@
+# No subir archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.log
+
+# Archivos locales
+*.vbs
+*.bat
+bolt
+burp*
+*.der
+*.exe
+
+# Otros proyectos
+YASB/
+TBomb/
+Bombers/
